@@ -18,6 +18,8 @@ An AI-powered coding assistant designed to enhance your coding efficiency with s
 ### 🎨 Frontend (React-Based Code Editor)
 
 #### 1️⃣ Smart Code Editor
+![Smart Code Editor](https://github.com/SaraffAbhishek/AI-Code-Generator-and-Completer/blob/e4fe7d0226337c4ace2fc81acae4a01e234651c6/assets/complete.jpg)
+
 - Real-time analysis to explain your code.
 - AI-powered code completion to enhance productivity.
 - Automatic documentation for better readability.
@@ -25,6 +27,8 @@ An AI-powered coding assistant designed to enhance your coding efficiency with s
 - User-friendly interface with instant AI feedback.
 
 #### 2️⃣ AI Code Generator
+![AI Code Generator](https://github.com/SaraffAbhishek/AI-Code-Generator-and-Completer/blob/e4fe7d0226337c4ace2fc81acae4a01e234651c6/assets/generate.jpg)
+
 - Generate specialized code based on different programming domains.
 - Supports C++ (Competitive Programming) with test cases.
 - Supports AI/ML (Python) and Web Development (HTML, CSS, JS).
